@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwODY0ZDJhM2Q3Mzg4YzBiZDczMjRiOCIsInVzZXJuYW1lIjoidmlsbGFuZ28iLCJpYXQiOjE2MTk0OTE4MDB9.OuFWWWRKqSU4pcbDibbV1BdhE6Y2z2XrvJqv7URTp4Y
+
+{
+    "content": "Usando JWT en middleware with use",
+    "important": false
+}
